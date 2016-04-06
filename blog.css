@@ -1,0 +1,24 @@
+.body{
+	margin: 0 auto;
+}
+
+#title {
+font-size:2em;
+margin:auto;
+width:100%;
+
+}
+
+.artHead {
+	margin:auto;
+	width:100%;
+	text-align: center;
+}
+.img {
+	display: block;
+	margin: auto;
+}
+nav li {
+	list-style: none;
+	margin-left: 94%;
+}
